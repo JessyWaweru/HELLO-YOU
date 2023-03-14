@@ -1,7 +1,13 @@
 body {
-    background: blue;
+    background: rgb(54, 54, 66);
     text-size-adjust: 200px;
 }
 h1 {
     color: beige;
+}
+.hobbies {
+font-family: 'Times New Roman', Times, serif;
+}
+#ABOUT {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
